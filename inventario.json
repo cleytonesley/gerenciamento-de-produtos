@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nome": "cadeira",
+        "categoria": "escritorio",
+        "quantidade": 10,
+        "preco": 350.0
+    },
+    {
+        "id": 2,
+        "nome": "mesa",
+        "categoria": "moveis",
+        "quantidade": 100,
+        "preco": 500.0
+    },
+    {
+        "id": 3,
+        "nome": "pc gamer",
+        "categoria": "computadores",
+        "quantidade": 15,
+        "preco": 1.2
+    }
+]
