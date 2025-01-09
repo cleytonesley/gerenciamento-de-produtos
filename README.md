@@ -23,8 +23,8 @@ Este projeto é uma aplicação simples em Python que permite gerenciar um inven
 
 1. **Clonar o Repositório**
    ```bash
-   git clone https://github.com/usuario/gerenciamento-inventario.git
-   cd gerenciamento-inventario
+   git clone https://github.com/cleytonesley/gerenciamento-de-produtos
+   cd gerenciamento-de-produtos
    ```
 
 2. **Executar o Programa**
@@ -62,5 +62,4 @@ O arquivo `inventario.json` será criado automaticamente caso não exista. Ele s
 - Validação mais robusta de entradas do usuário.
 
 ---
-**Desenvolvido por:** Seu Nome
-
+**Desenvolvido por:** cleyton esley
